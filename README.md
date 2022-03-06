@@ -4,4 +4,4 @@
 
 Grove Beginner Kit for Arduino
 
-This example shows how to get input from light sensor
+This example shows how to get input from light sensor and display the results on serial port.
